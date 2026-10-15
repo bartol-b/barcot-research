@@ -1,0 +1,1 @@
+A collection of my undergraduate research at Georgia Tech, spanning experimental active matter physics, DFT calculations, and theoretical quantum physics with applications to cosmology. Includes research projects, computational work, and other materials I've worked on along the way.
