@@ -1,3 +1,3 @@
-Theoretical research investigating the dynamics of open quantum systems using time-convolutionless (TCL) master equations and perturbative resummation techniques. The project aims to address infrared divergences in quantum dynamical descriptions, with potential applications to primordial fluctuations and the early universe.
+Theoretical research investigating the dynamics of open quantum systems, focusing on noninvertibility, rank suppression, quantum coherence, and non-Markovian effects through analytical and computational methods, with applications to primordial fluctuations and cosmology.
 
-Research under Dr. Dragomir Davidović at Georgia Tech.
+Research under Prof. Dragomir Davidović at the Georgia Institute of Technology.
