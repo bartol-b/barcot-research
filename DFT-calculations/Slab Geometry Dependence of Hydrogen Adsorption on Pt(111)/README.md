@@ -1,7 +1,5 @@
 # Slab Geometry Dependence of Hydrogen Adsorption on Pt(111)
 
-Computational investigation of hydrogen adsorption on Pt(111) surfaces using density functional theory (DFT).
-
 **Georgia Institute of Technology | Medford Group | VIP Big Data & Quantum Mechanics**
 
 ## Research Objective
