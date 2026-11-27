@@ -26,7 +26,7 @@ Both clean and hydrogen-adsorbed Pt(111) slabs were relaxed.
 
 Adsorption energies were calculated using:
 
-E_ads = E(Pt+H) - E(Pt) - 0.5 E(H2)
+E_ads = E(Pt+H) - E(Pt) - 1/2E(H2)
 
 Negative adsorption energies indicate energetically favorable adsorption relative to the molecular hydrogen reference.
 
